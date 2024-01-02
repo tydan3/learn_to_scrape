@@ -20,8 +20,8 @@ cd personal-web-scraping-learning
 
 ## Prerequisites
 Ensure that the following prerequisites are installed on your machine:
-- Python 3.x: Download Python
-- Pip (Python package installer): Included with Python 3.x
+- Python 3.12.0: Download Python
+- Pip (Python package installer): Included with Python 3.12.0
 
 ## Installation
 Install the required Python packages using the following command:
